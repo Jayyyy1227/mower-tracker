@@ -7,10 +7,10 @@ import datetime
 # 1. 核心配置 (请替换为你自己的网址！)
 # ==========================================
 # 这里填你从 Google Apps Script 拿到的 /exec 结尾的网址 (用于提交数据)
-GOOGLE_API_URL = "https://script.google.com/macros/s/你的那一长串代码/exec"
+GOOGLE_API_URL = "https://script.google.com/macros/s/AKfycbxpViohC47nzS_AlfZKqCHVv9PvaY7b0q_L2bPpe1lzGQehkj7Rd5EdiQsm5EeZR9zlWg/exec"
 
 # 这里填你从 Google 表格“发布到网络”拿到的 /pub?output=csv 结尾的网址 (用于读取数据)
-GOOGLE_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-你的那一长串/pub?output=csv"
+GOOGLE_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTVvG9Q2rMJOnDbR1P6PrbC5hGOlz5x3EO1GfFJfsawOS10Q7N85FH2AiB60B8HbPa9yoz5beOdhQ39/pub?gid=1174112572&single=true&output=csv"
 
 # ==========================================
 # 2. 页面全局设置
